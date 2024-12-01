@@ -33,7 +33,7 @@ Below are the solutions to LeetCode problems solved in December 2024, organized 
 
 Since this repository contains only the function implementations, you can copy the relevant function into the LeetCode online editor to test it. 
 
-For example, if you want to use the solution for the daily problem asked on November 1, 2024, copy the contents of `December_1.cpp` into the LeetCode editor.
+For example, if you want to use the solution for the daily problem asked on December 1, 2024, copy the contents of `December_1.cpp` into the LeetCode editor.
 
 ## Contact
 
