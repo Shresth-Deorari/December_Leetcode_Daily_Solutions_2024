@@ -29,6 +29,9 @@ Below are the solutions to LeetCode problems solved in December 2024, organized 
 - **December 1, 2024**
   - [December_1](December_1.cpp)
 
+- **December 2, 2024**
+  - [December_2](December_2.cpp)
+
 ## Usage
 
 Since this repository contains only the function implementations, you can copy the relevant function into the LeetCode online editor to test it. 
