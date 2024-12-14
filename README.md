@@ -59,11 +59,14 @@ Below are the solutions to LeetCode problems solved in December 2024, organized 
 - **December 11, 2024**
   - [December_11](December_11.cpp)
  
-  - - **December 12, 2024**
+- **December 12, 2024**
   - [December_12](December_12.cpp)
 
-  - - **December 13, 2024**
+- **December 13, 2024**
   - [December_13](December_13.cpp)
+
+- **December 14, 2024**
+  - [December_14](December_14.cpp)
 
 ## Usage
 
