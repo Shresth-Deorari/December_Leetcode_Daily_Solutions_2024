@@ -89,6 +89,9 @@ Below are the solutions to LeetCode problems solved in December 2024, organized 
 - **December 21, 2024**
   - [December_21](December_21.cpp)
 
+- **December 22, 2024**
+  - [December_22](December_22.cpp)
+
 ## Usage
 
 Since this repository contains only the function implementations, you can copy the relevant function into the LeetCode online editor to test it. 
